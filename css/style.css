@@ -1,0 +1,21 @@
+body {
+  background: #212529 !important;
+  color: white !important;
+}
+
+input, select {
+  background: black !important;
+  color: white !important;
+  border-color: #745804 !important;
+}
+
+/* CSS For inventory.php */
+.judul {
+  margin-top: 100px;
+  margin-bottom: 25px;
+}
+
+/* CSS For input.php */
+.col-sm-10 {
+  margin-bottom: 10px;
+}
